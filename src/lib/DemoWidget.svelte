@@ -16,6 +16,7 @@
               <h2>{param_one}</h2>
             </div>
           </div>
+          Here is our demo counter (counts by 2):<br/>
           <Counter />
         </div>
       </div>
